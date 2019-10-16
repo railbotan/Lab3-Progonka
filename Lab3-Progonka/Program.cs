@@ -34,6 +34,7 @@ namespace Lab3_Progonka
                 Console.WriteLine($"x{i + 1} = {x[i]}");
             }
             Console.ReadKey();
+            Console.WriteLine("Это я изменил");
         }
     }
 }
